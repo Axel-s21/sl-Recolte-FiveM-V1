@@ -3,7 +3,7 @@ game 'gta5'
 
 lua54 'yes'
 
-author 'Sky'
+author 'Axel'
 description 'Système simple de récolte multi-ressources'
 version '1.0.0'
 
@@ -26,3 +26,4 @@ dependencies {
     'ox_target',
     'ox_inventory'
 }
+
